@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Petty Cash Manager</string>
+    <string name="company_name">Company Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="reports">Reports</string>
+    <string name="profile">Profile</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="expense">Expense</string>
+    <string name="cash_in">Cash In</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="balance">Balance</string>
+    <string name="total_in">Total In</string>
+    <string name="total_out">Total Out</string>
+    <string name="export">Export</string>
+    <string name="no_transactions">No transactions found</string>
+    <string name="setup_company">Setup Company</string>
+    <string name="admin_username">Admin Username</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="upload_logo">Upload Company Logo</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="view_all">View All</string>
+    <string name="pending_approvals">Pending Approvals</string>
+    <string name="approval_system">Approval System</string>
+    <string name="enable_approval">Enable Transaction Approval</string>
+    <string name="offline_mode">Offline Mode</string>
+</resources>
