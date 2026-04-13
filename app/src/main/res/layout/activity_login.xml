@@ -23,7 +23,6 @@
         android:layout_height="84dp"
         android:src="@drawable/ic_company_placeholder"
         android:elevation="8dp"
-        android:borderWidth="3dp"
         app:civ_border_color="@color/white"
         app:civ_border_width="3dp"
         app:layout_constraintBottom_toBottomOf="@id/viewHeader"
@@ -154,3 +153,4 @@
         android:layout_marginBottom="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
